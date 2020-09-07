@@ -20,7 +20,9 @@ I believe that my application can be used to prepare for any kind exam. It shoul
 
 ## Kinda Users Manual
 * Every time you start the application an addition window will pop out. Here you can set up the tables to query multiple choice questions from and save your testing results. If you haven't set up these tables yet, please just close it.
+![Settings_Menu](https://github.com/sergioserge/exam-emulator/blob/master/Emulator_Settings_Menu.png)
 * Type in the database name in the input field on the bottom and click on "Create New Questions Database"
+![Main Menu](https://github.com/sergioserge/exam-emulator/blob/master/Emulator_Main_Menu.png)
 * Click on "Insert New Questions Manually" or "Insert New Questions From File" to insert new questions into the database
 * Click on "Select Working Tables" and select the database_name(with ending"_db"), which will be used to be copied automatically in the next step(that copy is going to have the ending "_copy").
 * Now you can create a new table to save the testing results into. So type in the name into the same input field and click on "Create Testing Session"
