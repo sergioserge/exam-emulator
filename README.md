@@ -41,6 +41,7 @@ I believe that my application can be used to prepare for any kind exam. It shoul
 
 
 ## To-Do
+* testin-modus feature: to set up the testing time or other conditions to fit other kind of tests(like linkedin)
 * provide the application as an executable file
 * reduce complexity of Questions class
 * unify the data container classes
